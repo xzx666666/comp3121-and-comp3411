@@ -1,0 +1,8 @@
+
+/Applications/SWI-Prolog.app/Contents/MacOS/swipl
+
+consult(family)
+
+
+color(a,red).
+
